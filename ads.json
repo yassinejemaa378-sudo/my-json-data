@@ -1,20 +1,14 @@
 {
-  "ads_enabled": true,
-  "banner": {
-    "enabled": true,
-    "unit_id": "YOUR_BANNER_ID"
-  },
-  "interstitial": {
-    "enabled": true,
-    "unit_id": "YOUR_INTERSTITIAL_ID",
-    "show_every_n_actions": 3
-  },
-  "rewarded": {
-    "enabled": true,
-    "unit_id": "YOUR_REWARDED_ID"
-  },
-  "app_open": {
-    "enabled": false,
-    "unit_id": "YOUR_APP_OPEN_ID"
-  }
+  "ad_statut": false,
+  "ad_type": 1,
+  "admob_banner": "",
+  "admob_inter": "ca-app-pub-3940256099942544/4411468910",
+  "admob_native": "ca-app-pub-3940256099942544/3986624511",
+  "admob_open_ad": "ca-app-pub-3940256099942544/5575463023",
+  "fan_inter": "",
+  "fan_banner": "",
+  "fan_native": "",
+  "share": "",
+  "rate": "",
+  "interval": 1
 }
